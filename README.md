@@ -10,7 +10,7 @@ This is a portfolio for my personal projects, including embedded Linux developme
  ## Contact Information 📱
 If you are interested in discussing collaboration opportunities or freelance projects, feel free to contact me.
 
-- LinkedIn: https://www.linkedin.com/in/juan-ignacio-giorgetti/)
+- LinkedIn: https://www.linkedin.com/in/juan-ignacio-giorgetti/
 
 - Email: juan.giorgetti@gmail.com
 
